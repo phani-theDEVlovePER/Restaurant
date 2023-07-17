@@ -2,10 +2,7 @@
 
 link for the site is 
 
-
-
-
-https://phani-thedevloveper.github.io/updated/
+https://phani-thedevloveper.github.io/Restaurant/
 
 
 
